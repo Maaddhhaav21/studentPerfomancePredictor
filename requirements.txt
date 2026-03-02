@@ -4,4 +4,4 @@ scikit-learn
 flask
 seaborn
 matplotlib
--e .
+dill
